@@ -13,13 +13,18 @@ We specialize in modern web & mobile development, AI-powered applications, and I
 
 ### Products & Services
 
-**[China Sourcing Agent](https://china-sourcing-agents.com/)** — Engineer-led electronics sourcing agent helping Western companies source electronics, IoT modules, and PCBs from verified Chinese manufacturers. We handle supplier matching, factory audits, quality inspection, private label OEM management, and logistics coordination. Serving hardware startups, Amazon sellers, industrial IoT integrators, and distributors across the US, Europe, and Japan.
+**[China Sourcing Agent](https://china-sourcing-agents.com/)** — Engineer-led China sourcing agent helping companies worldwide source electronics, IoT modules, smart home devices, and PCBs from verified Chinese manufacturers. We handle supplier matching, factory audits, quality inspection, private label OEM management, and logistics coordination.
+
+**Smart Home & IoT Specialization**: Tuya-compatible devices, Zigbee hubs, Matter controllers, smart switches, sensors, smart curtains, smart locks, gateways, and full smart home solutions. We arrange factory visits in Shanghai, Shenzhen, and Dongguan for buyers from the Middle East (Saudi Arabia, UAE, GCC), Europe, North America, and Japan.
+
+**Services**: [Sourcing & Supplier Matching](https://china-sourcing-agents.com/services/sourcing/) · [Factory Audit & Verification](https://china-sourcing-agents.com/services/audit/) · [Quality Inspection](https://china-sourcing-agents.com/services/inspection/) · [Private Label & OEM](https://china-sourcing-agents.com/services/private-label/) · [Logistics Coordination](https://china-sourcing-agents.com/services/logistics/) · Factory visit arrangement with interpreter support (English, Chinese, Arabic)
 
 ### Resources
 
 - [How to Source Electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/) — Engineer-written guide covering supplier discovery, RFQ writing, factory auditing, quality inspection, and payment terms
 - [PCB Assembly in China: Buyer's Guide](https://china-sourcing-agents.com/guides/pcb-assembly-china/) — Gerber packages, IPC-A-610 standards, SMT line qualification, DFM review, and real cost breakdowns for PCBA orders
 - [Hardware Startup Manufacturing in China](https://china-sourcing-agents.com/guides/hardware-startup-china-manufacturing/) — What happens after crowdfunding: DFM, tooling decisions, certification timelines, and production milestones from EV to mass production
+- [Smart Home Device Sourcing: Zigbee, Matter & Thread](https://china-sourcing-agents.com/guides/smart-home-device-sourcing/) — Sourcing Tuya-compatible smart switches, sensors, curtains, locks, and gateways; covers CSA Matter certification and multi-protocol interoperability
 - [Industrial IoT Hardware Sourcing](https://china-sourcing-agents.com/guides/industrial-iot-hardware-sourcing/) — Sourcing IIoT gateways, DIN rail devices, and industrial sensors; covers IEC 61850/62443 compliance and wide-temperature component validation
 
 ### Open Source
