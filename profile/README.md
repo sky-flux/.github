@@ -11,14 +11,19 @@ We specialize in modern web & mobile development, AI-powered applications, and I
 - **IoT & Embedded Systems** — STM32 / ESP32, embedded Linux, MQTT, sensor integration
 - **Mobile Development** — WeChat Mini Programs, React Native, Android (Kotlin), iOS
 
+### Products & Services
+
+**[China Sourcing Agent](https://china-sourcing-agents.com/)** — Engineer-led electronics sourcing agent helping Western companies source electronics, IoT modules, and PCBs from verified Chinese manufacturers. We handle supplier matching, factory audits, quality inspection, private label OEM management, and logistics coordination. Serving hardware startups, Amazon sellers, industrial IoT integrators, and distributors across the US, Europe, and Japan.
+
 ### Open Source
 
 | Project | Description |
 |---------|-------------|
 | [flux](https://github.com/sky-flux/flux) | Pure Go implementation of the FSRS v6 spaced repetition algorithm |
+| [skills](https://github.com/sky-flux/skills) | Agent Skills — multi-document project planning and documentation system with 39-dimension cross-document consistency scanning |
 
 ### Contact
 
-- **Website:** [sky-flux.com](https://sky-flux.com)
-- **Email:** liquan.wang@sky-flux.cn
+- **China Sourcing Agent:** [china-sourcing-agents.com](https://china-sourcing-agents.com/) — hello@china-sourcing-agents.com
+- **Sky Flux Labs:** [sky-flux.com](https://sky-flux.com) — liquan.wang@sky-flux.cn
 - **Location:** China (Chengdu / Nanjing)
